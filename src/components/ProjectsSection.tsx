@@ -2,7 +2,7 @@ import { motion, useInView } from "framer-motion";
 import { useRef, useState } from "react";
 import { ExternalLink, Github, ArrowUpRight } from "lucide-react";
 import clearioImg from "@/assets/cleario-tasks.jpg";
-import aiDetectionImg from "@/assets/ai-content-detection.jpg";
+import researchlensImg from "@/assets/researchlens.png";
 import pakJapanImg from "@/assets/pak-japan-battery.jpg";
 
 const projects = [
