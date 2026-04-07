@@ -16,13 +16,13 @@ const projects = [
     image: clearioImg,
   },
   {
-    title: "AI Content Detection System",
-    description: "An intelligent system to detect AI-generated academic content, helping maintain academic integrity in educational institutions.",
+    title: "ResearchLens AI",
+    description: "Paper Insight AI is an AI-powered tool that helps users quickly analyze, summarize, and extract key insights from research papers.",
     tech: ["Python", "Machine Learning", "NLP", "Flask"],
     github: "#",
     live: "#",
     color: "from-accent/20 to-primary/20",
-    image: aiDetectionImg,
+    image: researchlensImg,
   },
   {
     title: "Pak Japan Battery Website",
