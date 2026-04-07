@@ -20,7 +20,7 @@ const projects = [
     description: "Paper Insight AI is an AI-powered tool that helps users quickly analyze, summarize, and extract key insights from research papers.",
     tech: ["Python", "Machine Learning", "NLP", "Flask"],
     github: "#",
-    live: "#",
+    live: "https://researchlens-ai.vercel.app/",
     color: "from-accent/20 to-primary/20",
     image: researchlensImg,
   },
